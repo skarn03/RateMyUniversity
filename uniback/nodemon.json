@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB_URI": "mongodb+srv://sahilkarn03:FdOasowTKG8NV6hL@cluster0.yhyxttz.mongodb.net/",
+        "JWT_KEY": "hj213218sdahe1`298sadajsad,9**"
+    }
+}
